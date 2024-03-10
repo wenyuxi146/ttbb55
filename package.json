@@ -1,8 +1,12 @@
 {
-  "name": "bbb",
-  "version": "1.0.0",
-  "description": "",
-  "main": "bbb.js",
+  "dependencies":{
+    "name": "ttbb55",
+    "version": "1.0.0",
+    "description": "",
+    "main": "ttbb55.js"
+
+  },
+ 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
