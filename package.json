@@ -16,5 +16,9 @@
   "license": "ISC",
   "dependencies": {
     "teatrc20": "^1.0.0"
+  },
+  "devDependencies": {
+    "name":"bbb",
+    "version": "~0.1.2"
   }
 }
