@@ -2,7 +2,7 @@
   
     "name": "ttbb55",
   
-    "version": "1.0.2",
+    "version": "1.0.3",
   
     "description": "",
   
@@ -35,6 +35,9 @@
   
       
     "crypto-price-checker-oooooyoung": "^1.0.3",
+  
+      
+    "open": "^10.1.0",
   
       
     "shell-oooooyoung": "^1.1.8",
